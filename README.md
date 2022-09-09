@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Tolga.
 
-- 📫 I’m a computer student at Bursa Uludag University.
+- 📫 I’m a computer programming student at Bursa Uludag University.
 
 <!---
 bekdo/bekdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
