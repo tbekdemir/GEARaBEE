@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Tolga.
+- 👋 Hello, I’m GEARaBEE.
 
-- 📫 I’m a computer programming student at Bursa Uludag University.
+- 📫 I’m a Junior Developer.
 
 <!---
 bekdo/bekdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
