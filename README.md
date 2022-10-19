@@ -27,6 +27,9 @@
 --->
   
 ![](https://komarev.com/ghpvc/?username=tbekdemir&color=orange)
+<a href="https://tolgabekdemir.xyz">
+<img align="center" src="https://komarev.com/ghpvc/?username=tbekdemir&color=orange" />
+</a>
 
 <!---
 bekdo/bekdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
