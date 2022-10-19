@@ -14,6 +14,9 @@
 
 <a href="https://gearabee.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@GEARaBEE" height="30" width="40" /></a>
 </p>
+<a href="https://tolgabekdemir.xyz">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tbekdemir&count_private=true&show_icons=true&theme=github_dark" />
+</a>
 <!---
 <h3 align="left">Languages and Tools:</h3>
 
