@@ -18,7 +18,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbekdemir&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://tolgabekdemir.xyz">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tbekdemir&count_private=true&show_icons=true&theme=github_dark" />
+<img align="center" src="https://komarev.com/ghpvc/?username=tbekdemir&color=orange" />
 </a>
 <!---
 <h3 align="left">Languages and Tools:</h3>
