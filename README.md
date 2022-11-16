@@ -2,7 +2,7 @@
 
 📫 I’m a Junior Developer.
 
-💻Check my website: [**tolgabekdemir.xyz**](https://www.tolgabekdemir.xyz)
+💻Check my  [**website**](https://www.bekdemir.me)
 
 📫 How to reach me **tolgabekdemirtolga@gmail.com**
 
