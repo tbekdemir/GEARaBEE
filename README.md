@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TOLGA BEKDEMIR</h1>
+<h1 align="center">TOLGA BEKDEMIR</h1>
 
 📫 I’m a Junior Developer.
 
